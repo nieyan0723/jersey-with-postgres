@@ -1,0 +1,12 @@
+command\SearchSongCommand.class
+command\CreateSongCommand.class
+command\GetSongCommand.class
+util\Constants$Pagination.class
+connectionprovider\ConnectionProvider.class
+launch\Main.class
+services\Services.class
+util\Constants.class
+command\DeleteSongCommand.class
+model\Song.class
+command\ListSongsCommand.class
+command\UpdateSongCommand.class
